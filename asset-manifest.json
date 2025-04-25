@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tunels/static/css/main.ca43d3b4.css",
+    "main.js": "/tunels/static/js/main.dcc7febd.js",
+    "static/js/453.ed3810f9.chunk.js": "/tunels/static/js/453.ed3810f9.chunk.js",
+    "static/media/Henyk.mp3": "/tunels/static/media/Henyk.a24aae8ff639c24a26a7.mp3",
+    "static/media/Shalamaj.mp3": "/tunels/static/media/Shalamaj.114b31c6e88dd0ea7868.mp3",
+    "static/media/Chalchynska.mp3": "/tunels/static/media/Chalchynska.d2e1bcce117af8c350ce.mp3",
+    "static/media/Martynets.mp3": "/tunels/static/media/Martynets.48ad3a95e22a9b08e118.mp3",
+    "static/media/Tsyniuk_part_1.mp3": "/tunels/static/media/Tsyniuk_part_1.358693fa797299d1587e.mp3",
+    "static/media/Kotsiuk.mp3": "/tunels/static/media/Kotsiuk.62502406b99b3106d980.mp3",
+    "static/media/volkano.mp4": "/tunels/static/media/volkano.c07eb2e25c706936488e.mp4",
+    "static/media/Tsyniuk_part_2.mp3": "/tunels/static/media/Tsyniuk_part_2.1190cf5af3a419f5c224.mp3",
+    "index.html": "/tunels/index.html",
+    "main.ca43d3b4.css.map": "/tunels/static/css/main.ca43d3b4.css.map",
+    "main.dcc7febd.js.map": "/tunels/static/js/main.dcc7febd.js.map",
+    "453.ed3810f9.chunk.js.map": "/tunels/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca43d3b4.css",
+    "static/js/main.dcc7febd.js"
+  ]
+}
